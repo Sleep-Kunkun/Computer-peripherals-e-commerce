@@ -1,0 +1,34 @@
+node_modules
+mapper/*.xml
+.DS_Store
+.local
+.history
+# local env files
+.env.local
+.env.*.local
+.eslintcache
+.github
+.husky
+.vscode
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+pnpm-lock.yaml*
+
+# Editor directories and files
+.idea
+# .vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+./packages
+./history
+
+*.sql
+package-lock.json
+/target

@@ -1,0 +1,14 @@
+python 3.8.3
+node 20.18.0
+MySQL 5.7.26
+虚拟环境：
+
+查看虚拟环境：conda env list
+
+进入虚拟环境：conda activate 环境名称
+
+退出虚拟环境：conda deactivate
+
+创建虚拟环境：conda create -n 环境名称 python=版本号
+
+删除虚拟环境：conda remove -n 环境名称 --all
